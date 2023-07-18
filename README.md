@@ -5,10 +5,10 @@ The project is a user-friendly desktop application. It deals with managing the p
 ##Features
 * Route planning for the rider
 * Email Sending
-• Report Generating
-• Fuel Control
-• Order Management
-• Inventory Control
-• Invoicing
+* Report Generating
+* Fuel Control
+* Order Management
+* Inventory Control
+* Invoicing
 
 
